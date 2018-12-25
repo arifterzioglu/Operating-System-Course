@@ -1,5 +1,4 @@
 /*Arif Can Terzioğlu 21302061
-Kübra Nur Güzel 21400946*/
 #include <unistd.h>
 #include <stdlib.h>
 #include <stdio.h>
