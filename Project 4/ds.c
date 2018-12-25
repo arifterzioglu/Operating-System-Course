@@ -1,4 +1,4 @@
-/*Arif Can Terzioğlu 21302061
+/*Arif Can Terzioğlu 21302061*/
 #include <unistd.h>
 #include <stdlib.h>
 #include <stdio.h>
